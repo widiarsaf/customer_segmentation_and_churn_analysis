@@ -10,3 +10,6 @@ RFM segmentation is a data-driven technique used to categorize customers based o
 - Segmenting Customers into Four Groups Using the RFM Approach
 - Identifying Potential Churn Customers Based on Customer Segmentation
 - Analyze Churn Probability from Customer
+
+## Data Sources
+Datasets : [Online Retail Project](https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset)
